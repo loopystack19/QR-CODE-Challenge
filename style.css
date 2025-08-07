@@ -24,7 +24,7 @@ body{
 }
 .qr-code-container{
     min-width: 100%;
-    min-height: 60%;
+    min-height: 55%;
     border-radius: 16px;
     margin: 1rem 0;
 }
