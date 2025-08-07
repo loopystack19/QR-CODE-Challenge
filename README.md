@@ -21,7 +21,9 @@ A simple QR code component built with HTML and CSS. This was my first challenge 
 
 ## Screenshot
 
-![QR Code Component Screenshot](./screenshot/screenshot.png)
+![QR Code Component Screenshot](./screenshot.png)
+
+
 
 ## Links
 
